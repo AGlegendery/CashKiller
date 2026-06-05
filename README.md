@@ -1,4 +1,4 @@
-# 🗑️ CashKiller v8 – Ultimate Cache Cleaner
+# 🗑️ CashKiller v8 – Windows Ultimate Cache Cleaner
 A PowerShell Based Cache Cleaner For Windows 10/11 And Hardly On Win7 
 
 ![CashKiller Banner](https://img.shields.io/badge/PowerShell-5.1-blue?logo=powershell)
