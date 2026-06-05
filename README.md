@@ -7,6 +7,32 @@ A PowerShell Based Cache Cleaner For Windows 10/11 And Hardly On Win7
 ![Version](https://img.shields.io/badge/Version-8.0-orange)
 
 **CashKiller v8** is a powerful, terminal-based cache cleaning utility for Windows that combines safety, speed, and an intuitive interface. Designed for power users and system administrators, it intelligently scans and removes unnecessary cache files while protecting critical system directories.
+---
+
+## 📑 Table of Contents
+
+- [✨ Features](#-features)
+  - [🔒 Safety First](#-safety-first)
+  - [⚡ Performance Optimized](#-performance-optimized)
+  - [🎮 User-Friendly Interface](#-user-friendly-interface)
+  - [📊 Advanced Functionality](#-advanced-functionality)
+
+- [💓 Donate](#-donating)
+
+- [🚀 Quick Start](#-quick-start)
+- [🎯 Supported Cache Locations](#-supported-cache-locations)
+- [🎮 Interface Controls](#-interface-controls)
+- [📁 File Structure](#-file-structure)
+- [🔧 Technical Details](#-technical-details)
+- [🛡️ Launcher.bat (Administrator Elevation)](#️-launcherbat-administrator-elevation)
+- [📈 Usage Examples](#-usage-examples)
+- [⚠️ Safety Notes](#️-safety-notes)
+- [🔄 Version History](#-version-history)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [⭐ Acknowledgments](#-acknowledgments)
+- [📞 Support](#-support)
+- [🎯 Pro Tips](#-pro-tips)
 
 ---
 
