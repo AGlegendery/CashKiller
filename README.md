@@ -68,16 +68,14 @@ A PowerShell Based Cache Cleaner For Windows 10/11 And Hardly On Win7
 ---
 
 ## 🚀 Quick Start
-
-### Method 1: Direct PowerShell Execution
 ```powershell
-# Run from PowerShell (admin rights will be requested)
-.\CashKiller_v8.ps1
-
-### Method 2: Using Launcher Batch File
-batch
+### Method 1: Using Launcher Batch File (recommended)
 # Double-click or run:
 Launcher.bat
+
+### Method 2: Direct PowerShell Execution
+# Run from PowerShell (admin rights will be requested)
+.\CashKiller_v8.ps1
 
 ### Method 3: Manual PowerShell
 powershell
