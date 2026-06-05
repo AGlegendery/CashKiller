@@ -58,7 +58,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force
 # Run script
 powershell -ExecutionPolicy Bypass -File "CashKiller_v8.ps1"
 
----
+```
 
 ## 🎯 Supported Cache Locations
 
