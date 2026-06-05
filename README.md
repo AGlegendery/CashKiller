@@ -345,3 +345,24 @@ This README provides:
 - Version comparison
 - Professional formatting for GitHub/GitLab
 - Easy copy-paste format within the code block
+
+##Donating💓💓
+these are my wallet address to donating 
+thanks for reading until end💓💓
+
+```USDT
+0xC593BbeC90A85c236A1eF720653aBb7F03BF2C31
+```
+
+```BTC
+bc1q4qdyh5865yw2chyyq3rnzsj67eres9p3hthtg4
+```
+
+```Solana
+FwpGTehNp2ZRB8382eiEuCQxdp99YeKVo88V2GEDXwZ
+```
+
+```ETH
+0xC593BbeC90A85c236A1eF720653aBb7F03BF2C31
+```
+
